@@ -1,1 +1,12 @@
 
+#include <stdio.h>
+
+int main() {
+    int a=5;
+    int b;
+    b=--a;
+    printf("YASHASHVI PANDEY \n");
+    printf("b:%d, a:%d \n",b,a);
+    
+    return 0;
+}
