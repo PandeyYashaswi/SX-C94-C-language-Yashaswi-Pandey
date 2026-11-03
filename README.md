@@ -1,1 +1,1 @@
-# SX-C94-C-language-Yashaswi-Pandey
+# SB-C94-C-language-Yashaswi-Pandey
